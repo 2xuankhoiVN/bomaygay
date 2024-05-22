@@ -12,7 +12,7 @@ function sleep(ms) {
 async function startBot() {
     bot = mineflayer.createBot({
         host: 'vinamc.net',
-        username: 'TrumDaDen',
+        username: 'TrumTamBien',
         auth: 'offline',
         port: 25565,
     });
